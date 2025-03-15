@@ -1,0 +1,4 @@
+1.implement stack using array
+2.reverse a string using stack
+3.convertion from infix from postfix 
+4.implement stack using linked list 

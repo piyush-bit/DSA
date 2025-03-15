@@ -1,0 +1,18 @@
+Comprehensive CSV Report for sample-sales-data.txt
+-------------------------------------
+Total Records: 10
+
+Column Analysis: quantity
+Average: 42.2
+Maximum: 55
+Minimum: 30
+
+Column Analysis: price
+Average: 804.925
+Maximum: 1300.00
+Minimum: 350.75
+
+Column Analysis: sales_amount
+Average: 36469.3
+Maximum: 71500.00
+Minimum: 10522.50

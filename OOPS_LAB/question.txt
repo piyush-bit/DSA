@@ -1,0 +1,20 @@
+1.wap a program to implement friend function to increment the private data member of a class by x given by the user . ( the x is last 4 digit of self registration number )
+2.wap a program to exchange value between the clases using friend function
+3.wap  to count no of obj used in a program using static variable . create a static member function to check the total number of object created in the program at the end 
+4.wap to differentiate between a member function and a inline function 
+5.wap to demonstrate the use of #define for creating a variable , a function 
+6.wap to implemarnt -- prefix and postfix operation using opereator overloading 
+7.wap to evaluate multiplication of two object using operator overloading 
+8.wap to evalualte following expression 
+    i. ob1=ob2+ob3/ob4
+    ii. ob1=ob2*ob3-ob4
+9.wap to implement a class to store the student details
+10.wap to convert inch value to feet value using class to class conversion (if the conversion is bidirectional then use class to class conversion else class to basic )
+//next 
+11.wap to implement to single inheritence . (write down the observation how we can achieve the process of inhereitence through coding and how a child class inheriting the data to the derived class )
+12. wap to implement hierarchical inheritence .
+13. wap to to implement hybrid inheritence and demonstrate the use of virtual class to avoid ambiguity problem .
+14. wap to override a function in herientance (it is also known as function overriding ) 
+
+15.wap to create student information system to store , update and display using apt functions . the sudent information contain stident resistration number , name , and cgpa .(here in the update function ask the user about which data to be modified and before modifing display the current data)
+16.wap to create a financial calculator to calculate profit of a user based on given principle amount , interest rate , and time period in months . from hte given data calculate the user profit using simple interst and compound interst 

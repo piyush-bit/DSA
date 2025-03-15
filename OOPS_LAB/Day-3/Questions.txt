@@ -1,0 +1,9 @@
+Q1 . Wap to implement inheritence 
+
+Q2 . Wap to implement call by value call by adress and call by refernce . (as a hint in this experimnet write a oberevation about how a value moving from function call to function defination and return back to the function call , the number of variable used in each type of function call and also calculate the space reaquired )
+
+Q3 . Wap a program to impleament different function in a program such as 
+ (i).   function with no return type and an argument 
+ (ii).  function with no return tyoe and no argument 
+ (iii). function with return type and no argument 
+ (iv).  function with return type and an argument 

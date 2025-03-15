@@ -1,0 +1,7 @@
+This is the first line.
+Here comes the second line.
+This is a duplicate line.
+Another unique line here.
+This is a duplicate line.
+The final unique line.
+Here comes the second line.

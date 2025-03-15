@@ -1,0 +1,20 @@
+SDL Project Structure
+====================
+
+  📁 assets/
+  📁 build/
+    📄 SDLTagYouAreIt
+  📁 include/
+    📄 Game.h
+    📄 Level.h
+    📄 NPC.h
+    📄 Player.h
+    📄 Utils.h
+  📁 src/
+    📄 Game.cpp
+    📄 Game.o
+  📄 Makefile
+  📄 Readme.md
+  📄 level.bin
+  📄 main.cpp
+  📄 main.o

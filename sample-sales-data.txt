@@ -1,0 +1,11 @@
+month,product,quantity,price,sales_amount
+January,Laptop,45,1200.50,54022.50
+January,Tablet,30,350.75,10522.50
+February,Laptop,52,1250.25,65013.00
+February,Tablet,40,375.50,15020.00
+March,Laptop,38,1180.75,44869.50
+March,Tablet,35,360.25,12608.75
+April,Laptop,55,1300.00,71500.00
+April,Tablet,42,390.00,16380.00
+May,Laptop,48,1275.50,61224.00
+May,Tablet,37,365.75,13532.75
