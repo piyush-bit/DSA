@@ -28,18 +28,18 @@ systems = [
 ]
 
 
-affordable = []
+not_affordable = []
 perfect = []
 not_up_to_mark = []
 
 for system in systems:
     category = system.categorize_system()
     if category == "not_affordable":
-        not_up_to_mark.append(system)
+        not_affordable.append(system)
     elif category == "perfect":
         perfect.append(system)
     else:
-        affordable.append(system)
+        not_up_to_mark.append(system)
 
 
 print("Not Affordable Systems:")
